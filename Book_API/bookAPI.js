@@ -7,6 +7,7 @@ const mysql = require('mysql');
 
 
 // Testing with sneha and team =================
+// I am from QA code 
 
 // parse application/json
 app.use(bodyParser.json());
