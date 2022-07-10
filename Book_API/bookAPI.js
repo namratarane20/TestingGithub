@@ -6,12 +6,8 @@ const mysql = require('mysql');
 // app.use(cors());
 
 
-<<<<<<< HEAD
-// Testing with sneha and team development testing  =================
-=======
 // Testing with sneha and team =================
 // I am from QA code 
->>>>>>> 42986e6ce015fd0e0fbc5d1dfbdbe32aed536875
 
 // parse application/json
 app.use(bodyParser.json());
