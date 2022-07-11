@@ -7,6 +7,7 @@ const mysql = require('mysql');
 
 
 // Testing with sneha and team =================
+// I am from QA code added manually 
 
 // parse application/json
 app.use(bodyParser.json());
@@ -346,5 +347,14 @@ res.send(results)
 //Server listening to port
 app.listen(3000, () => {
     console.log('Server started on port 3000...');
+<<<<<<< HEAD
 });
 //changes from shivani
+=======
+
+});
+//code from yogesh
+// Code tested in dev succcesfully Yahooo\!!!!
+>>>>>>> 58ee51e51dd1fce002cc70236a9e8cef9d337c28
+//code change from shivani
+
